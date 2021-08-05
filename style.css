@@ -1,0 +1,68 @@
+.main{
+    width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: white;
+}
+body{
+    /* background-color: rgb(15, 241, 241); */
+    background-image: linear-gradient(rgb(90, 43, 43), rgb(236, 236, 57));
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading1{
+font-size: large;
+word-spacing: 4px;
+letter-spacing: 2px;
+color: rgb(52, 52, 102);
+}
+.quizBtn{
+    width: 50%;
+    height: 4%;
+    border: none;
+    background-color: white;
+    font-size: x-large;
+    transition: background-color 0.5s;
+    padding-top: 2%;
+    text-decoration: none;
+}
+.quizBtn:hover{
+    background-color: rgb(216, 83, 83);
+}
+.heading3{
+    font-size: x-large;
+    color: rgb(52, 52, 102);
+}
+.star{
+    width: 50%;
+}
+.para{
+    width: 60%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.new {
+    color: rgb(255, 0, 0);
+}
+.new:hover{
+    top: -5px;
+  color: rgb(99, 8, 8);
+}
+.companylogo{
+    display: inline;
+}
+.info{
+    width: 100%;
+    display: inline;
+}
+/* .sir{
+   width: 30%;
+   float: left;
+ height: 20%;
+} */
+.information{
+    color: rgb(52, 52, 102); ;
+
+}
